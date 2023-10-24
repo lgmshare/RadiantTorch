@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RadiantTorch</string>
+
+    <string name="permission_tips">The "RadiantTorch" app seeks permission to use your camera exclusively for activating the LED flashlight. You can be confident that it neither collects nor analyzes any camera-related data.</string>
+    <string name="later">Later</string>
+    <string name="authorize">Authorize</string>
+    <string name="main_tips">Light your way in an instant with our powerful flashlight app. Safety and convenience at your fingertips!</string>
+    <string name="warning">Notice!</string>
+    <string name="warning_tips">This occurrence has the potential to induce epileptic seizures in people with photosensitive epilepsy!</string>
+    <string name="flash_speed">Flash Speed</string>
+    <string name="ok">OK</string>
+    <string name="btn_abandon">Abandon</string>
+    <string name="btn_continue">Continue</string>
+    <string name="tips">Tips</string>
+    <string name="led_flash">Flashlight Beam</string>
+    <string name="screen_flash">Light Screen</string>
+</resources>
